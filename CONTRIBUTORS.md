@@ -73,6 +73,11 @@
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
+#### Name: [Thirawat](https://github.com/TRWxCH4MP)
+- Place: Thailand
+- Bio: Android Developer
+- Github: [Udit Mittal](https://github.com/TRWxCH4MP)
+
 #### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
